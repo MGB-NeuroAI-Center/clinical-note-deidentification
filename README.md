@@ -113,7 +113,7 @@ Copyright (c) 2025 The General Hospital Corporation
 - [Presidio](https://github.com/microsoft/presidio) by Microsoft for PII detection and anonymization
 
 ## Contact
-- **Project Maintainer**: Siril Raj Singa (*ssinga@mgh.harvard.edu*)
+- **Project Maintainer**: Siril Raj Singa (*ssinga[at]mgh[dot]harvard[dot]edu*)
 - **Issues**: [WIP]
 
 ---
